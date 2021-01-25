@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\CommonFunc.h(74,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\CommonFunc.h(83,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\ThreatsObject.h(17,1): warning C4005: 'PLAYER_SPEED': macro redefinition
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\MainObject.h(13): message : see previous definition of 'PLAYER_SPEED'
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\ThreatsObject.h(30,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\ThreatsObject.h(31,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\ThreatsObject.h(33,43): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\ThreatsObject.h(34,43): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\ThreatsObject.h(35,27): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\ThreatsObject.h(36,27): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(172,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(251,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(275,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(276,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(313,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(319,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(335,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(336,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(386,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(392,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\thuha\Desktop\GameCpp2\GameCpp2\main.cpp(407,20): warning C4018: '<': signed/unsigned mismatch
+  GameCpp2.vcxproj -> C:\Users\thuha\Desktop\GameCpp2\Debug\GameCpp2.exe
